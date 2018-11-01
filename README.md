@@ -12,6 +12,7 @@ Script that automates changing all file-names in a folder. Very helpful with fol
 ## Usage
 
 In the command line/terminal:
+
 `$ node path-to-index.js directory-to-rename case-code`
 
 ### Supported Cases
