@@ -27,4 +27,5 @@ In the command line/terminal:
 ### Example
 
 Suppose we are in the directory of the index.js and want to convert the files in "anyDir" to uppercase:
+
 `$ node index.js ../anyDir upper`
