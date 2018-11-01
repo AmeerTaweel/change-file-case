@@ -16,6 +16,13 @@
     "Ameer Taweel",
     "Ameer",
     "Taweel",
-    "Script"
+    "Script",
+    "Uppercase",
+    "Lowercase",
+    "Title case",
+    "Camel case",
+    "Sentence case",
+    "Kebab case",
+    "Snake case"
   ]
 }
