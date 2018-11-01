@@ -1,6 +1,6 @@
 {
   "name": "change-file-case",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Script that automates changing all file-names in a folder. Very helpful with folders that contain huge amount of files.",
   "repository": "AmeerTaweel/change-file-case",
   "main": "index.js",
