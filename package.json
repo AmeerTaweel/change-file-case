@@ -4,7 +4,7 @@
   "description": "Script that automates changing all file-names in a folder. Very helpful with folders that contain huge amount of files.",
   "repository": "AmeerTaweel/change-file-case",
   "main": "index.js",
-  "bin": "index.js"
+  "bin": "index.js",
   "author": "Ameer Taweel",
   "license": "MIT",
   "keywords": [
