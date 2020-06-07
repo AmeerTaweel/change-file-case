@@ -12,6 +12,6 @@
     "npm",
     "bulk-rename",
     "case-change",
-    "file-rename",
+    "file-rename"
   ]
 }
